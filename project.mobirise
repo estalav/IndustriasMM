@@ -41,11 +41,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Industrias Miranda Munoz",
+        "meta_descr": "Ajuste, rectificación, diseño y construcción de equipo industrial hidráulico",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/4.jpeg"
       },
       "components": [
         {
